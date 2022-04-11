@@ -1,8 +1,8 @@
-## Peganod Tweets - Servidor [Back-end]
+## Get na API do Twitter de acordo com a Hashtag informada no Front-end - Servidor [Back-end]
 
 Servidor da aplicação de monitoramento de hashtag no Twitter.
 
-<img align="center" alt="GIF" src="https://github.com/alexjou/get_tweets/src/assets/example.mp4" width="500"/>
+<img align="center" alt="GIF" src="./src/assets/example.gif" width="500"/>
 
 ## Começando
 
